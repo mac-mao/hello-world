@@ -1,2 +1,5 @@
 # hello-world
-Test
+
+Hi Mac,
+
+I am learning Python!
